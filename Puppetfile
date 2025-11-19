@@ -16,7 +16,4 @@ forge 'https://forge.puppet.com'
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
 
-mod 'precheck',
-  git:    'https://github.com/SenthilNathanA/testrepo.git',
-  branch: 'main'
 
